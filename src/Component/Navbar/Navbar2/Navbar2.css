@@ -1,0 +1,21 @@
+.navigation {
+    border: 1px solid slategray;
+}
+
+.home {
+    display: flex;
+}
+
+.home2 {
+    color: black;
+    font-size: large;
+}
+
+.navbar-brand {
+    margin-left: 18px;
+    margin-right: 500px;
+}
+
+.red {
+    color: red;
+}
